@@ -1,0 +1,1 @@
+# 22_poo_medium_js
